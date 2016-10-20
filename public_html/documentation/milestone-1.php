@@ -27,25 +27,40 @@
 
 			<!--this is the purpose of the site-->
 
+			<section>
+
 			<h2>Purpose</h2>
 
 				<p>The purpose of this website is to inform the public about the Art Fight event held once a month at Tractor Brewing Co. Wells Park.  It is a live art competition where the beer drinking public decide the winner.  Each artist creates a work of art from scratch during the three hour event based on a theme.  During that time every drink purchased comes with a free ticket that patrons use to vote for their favorite artist of the night. At the end of the event we count the votes and declare a winner.  The action isn't over though until we auction off the artwork that was made that night. The proceeds are split between the artist and some sort of cause. Past Art Fights have helped the Muertos y Marigolds Parade, PACA, Babe's and Bullies, the Bees and Seeds Festival, Southwest Organizing Project and many more. Art Fight has been going strong for two years and continues to grow. The website will aim to sign people up for a mailing list to keep them informed of events and pertinent information.</p>
 
+			</section>
+
 			<!--this is the audience-->
+
+			<section>
 
 			<h3>Audience</h3>
 
 				<p>Art Fight's audience is as varied as the population of Albuquerque.  They range in age from 21-65. They enjoy craft beer and local art. Some come just for the art and some come just for the beer but most come for both.  Most are tech savy and use apps often.
 				</p>
 
+			</section>
+
 			<!--this is the goal-->
+
+			<section>
+
 			<h4>Goal</h4>
 
 				<p>One major goal is to inform the user of the rules of Art Fight, upcoming dates and themes, show a leader board of past winners and link to their sites, share links of the organizations we help, and sign people up for an e-mail newsletter.</p>
 
+			</section>
+
 			<!--begin persona section-->
 
 			<section>
+
+			<h5>Persona</h5>
 
 				<p><b>Name</b>: Bobby Whright</p>
 
@@ -61,7 +76,7 @@
 
 				<!--begin use case section-->
 
-				<h3>Use Case</h3>
+				<h6>Use Case</h6>
 
 				<p>After a meeting with a client and waiting for his next appointment Bobby stares at his office wall across from his desk.  The painting that hangs on the wall is one from his own collection.  It is a large canvas painted by renowned painter of Santa Fe art history, William Schuster.  It has hung on that wall for years and every now and then another, often very much older, client comments on how they enjoy the painting.  Looking at it now he feels it's looking more and more like those clients, old.  </p>
 

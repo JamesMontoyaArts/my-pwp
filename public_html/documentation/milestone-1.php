@@ -6,6 +6,9 @@
 
 		<meta charset="utf-8">
 
+		<!--CSS file-->
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
+
 		<!--This is the title-->
 
 		<title>James Montoya</title>

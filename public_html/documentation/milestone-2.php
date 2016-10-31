@@ -22,5 +22,7 @@
 
 		<img src="img/website-mock-up-mobile.jpg" alt="mobile wireframe" height="100%" width="100%">
 
+		<img src="img/mobile-mock-up.gif" alt="mobile wireframe" height="100%">
+
 	</body>
 </html>

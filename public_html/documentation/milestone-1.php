@@ -30,7 +30,7 @@
 
 			<!--this is the purpose of the site-->
 
-			<section>
+			<section class="bg-black">
 
 			<h2>Purpose</h2>
 
@@ -40,7 +40,7 @@
 
 			<!--this is the audience-->
 
-			<section>
+			<section class="bg-black">
 
 			<h3>Audience</h3>
 
@@ -51,7 +51,7 @@
 
 			<!--this is the goal-->
 
-			<section>
+			<section class="bg-black">
 
 			<h4>Goal</h4>
 
@@ -61,7 +61,7 @@
 
 			<!--begin persona section-->
 
-			<section>
+			<section class="bg-black">
 
 			<h5>Persona</h5>
 

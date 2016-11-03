@@ -17,3 +17,31 @@ All in all - great work. I'm looking forward to seeing this project take shape. 
 - Watch your HTML indentation (see lines 32, 42, 53, etc.)
 - Instead of the &lt;b&gt; tag to create bolded text, use the &lt;strong&gt; tag instead. This is the current HTML5 standard.
 - Don't forget the `lang='en'` attribute on your &lt;html&gt; tag.
+
+
+## Milestone 2&alpha; Feedback
+Nice Wireframe - if you could call it that. You created a full mock up with color scheme and images - fantastic job here.
+
+I'm assuming your navbar buttons are just going to anchor to the part of the page specified by the button - which is a great idea for a website with this much information. Be aware that the personal website project is meant to be only one page, so keep thinking about ways to save space so endless scrolling is not required. 
+
+I really like the design of the site that you're going for. Use any extra time you have during the class to gather any images, content, information, and other assets that you will need for the final version of the site. Also keep in mind that your image slider can be done with the default bootstrap slider, but it's not that great. Take a look at the [Flickity Slider](http://flickity.metafizzy.co/), the [Owl Carosel](http://owlcarousel2.github.io/OwlCarousel2/) or [Slick](http://kenwheeler.github.io/slick/). These are only a few of many available slider options out there, and these are mobile/touch friendly. You may be able to do something like what you outlined in your wireframe using these slider tools.
+
+Spend some time planning out color schemes, custom fonts, and other design features that you will be using on the site.
+For custom fonts, I recommend using [Google Fonts](https://fonts.google.com/)
+
+For the Social Media icons, have a look Font Awesome. Very easy to use, simple and straightforward.
+http://fontawesome.io/
+
+When you do begin development, you'll build your page on `index.php` directly inside your `/public_html` directory.
+
+
+
+Great job with your HTML and Directory structure as well.
+
+
+### Edits &amp; Suggestions
+If you're planning on following this template EXACTLY for the final site - I may suggest a color scheme change. 
+Also, I would suggest making the content smaller so it doesn't fill up the entire screen view.
+
+
+##Really nice work here. Your Milestone 2&alpha; passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).

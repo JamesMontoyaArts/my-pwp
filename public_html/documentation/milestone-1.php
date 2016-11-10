@@ -65,17 +65,17 @@
 
 			<h5>Persona</h5>
 
-				<p><b>Name</b>: Bobby Whright</p>
+				<p><strong>Name</strong>: Bobby Whright</p>
 
-				<p><b>Age</b>: 42 </p>
+				<p><strong>Age</strong>: 42 </p>
 
-				<p><b>Profession</b> Full time attorney for local established lawfirm.  Avid art collector with several pieces from well established artists.  He has decided to purchase more local art to add to his collection.</p>
+				<p><strong>Profession</strong> Full time attorney for local established lawfirm.  Avid art collector with several pieces from well established artists.  He has decided to purchase more local art to add to his collection.</p>
 
-				<p><b>Technology</b>: Macbook pro 15" laptop with retina display, iPhone 7 and a 42" hi-def Samsung television at home. Broadband internet through City Link </p>
+				<p><strong>Technology</strong>: Macbook pro 15" laptop with retina display, iPhone 7 and a 42" hi-def Samsung television at home. Broadband internet through City Link </p>
 
-				<p><b>Attitudes and Behaviors</b>: He is an avid art collector who tries to expand his collection of original artwork any chance he gets.  He supports local art initiatives whenever asked and also sponsors a college scholarship for chicano artists seeking higher education in the visual arts.  He is involved with many local organizers and has done pro bono work for many of the non-profits that are close to his heart.  He believes in shopping local whenever he can.</p>
+				<p><strong>Attitudes and Behaviors</strong>: He is an avid art collector who tries to expand his collection of original artwork any chance he gets.  He supports local art initiatives whenever asked and also sponsors a college scholarship for chicano artists seeking higher education in the visual arts.  He is involved with many local organizers and has done pro bono work for many of the non-profits that are close to his heart.  He believes in shopping local whenever he can.</p>
 
-				<p><b>Needs and Frustrations</b>: He is looking to buy original artwork to add to his collection.  He enjoys the galleries in Santa Fe and old town Albuquerque but feels the artwork is somewhat boring and the styles out of touch with today.  He wants to find a gallery, or venue, or event, or something that makes him excited about art again. He heard of the event at Tractor Brewing called Art Fight from the secretary at his work.  She thought it would intrest him because of his love of art.  Although he was skeptical of the quality of art that can be made in a brewery, his secretary showed him a picture of a piece done by local artist Cloudface and he was pleasantly suprised that it was actually good.  After he heard about the price she paid he was even more excited to see the event for himself so he has come to the site looking for more info about the next Art Fight.</p>
+				<p><strong>Needs and Frustrations</strong>: He is looking to buy original artwork to add to his collection.  He enjoys the galleries in Santa Fe and old town Albuquerque but feels the artwork is somewhat boring and the styles out of touch with today.  He wants to find a gallery, or venue, or event, or something that makes him excited about art again. He heard of the event at Tractor Brewing called Art Fight from the secretary at his work.  She thought it would intrest him because of his love of art.  Although he was skeptical of the quality of art that can be made in a brewery, his secretary showed him a picture of a piece done by local artist Cloudface and he was pleasantly suprised that it was actually good.  After he heard about the price she paid he was even more excited to see the event for himself so he has come to the site looking for more info about the next Art Fight.</p>
 
 				<!--begin use case section-->
 

@@ -13,7 +13,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
 		<!-- Load my style sheet -->
-		<link rel="stylesheet" type="css/text" href="css/stylesheet.css">
+		<link rel="stylesheet" type="css/text" href="css/custom.css">
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
@@ -23,26 +23,35 @@
 
 	</head>
 	<body>
+		<container id="top">
+			<div calss="header row">
+			<header>
+				<div class="span12">
+				<img rel="header" type="img/.png" href="../img/header.png">
+				</div>
+			</header>
+			</div>
 
-		<section id="rules">
+			<section id="rules">
 
-			<p>DYou won't regret it, dad. When I kiss Jimmy Jr. under the disco ball, it'll be like we're all kissing Jimmy Jr under the disco ball. Dear Diary: Tonight I'm sneaking off to the abandoned taffy factory to look for treasure. Also, if boys had uteruses, they'd be called duderuses. I had no idea there was so much butt touching in baseball. I'm not spooked. What's the next thing after spooked? I'm that. I'm no hero. I just put my bra on one boob at a time. Drop the towel. Dad, you're the best pimp a girl could ever have. She grabbed Jimmy Jr's butt and changed the world.</p>
+				<p>DYou won't regret it, dad. When I kiss Jimmy Jr. under the disco ball, it'll be like we're all kissing Jimmy Jr under the disco ball. Dear Diary: Tonight I'm sneaking off to the abandoned taffy factory to look for treasure. Also, if boys had uteruses, they'd be called duderuses. I had no idea there was so much butt touching in baseball. I'm not spooked. What's the next thing after spooked? I'm that. I'm no hero. I just put my bra on one boob at a time. Drop the towel. Dad, you're the best pimp a girl could ever have. She grabbed Jimmy Jr's butt and changed the world.</p>
 
-		</section>
+			</section>
+		</container>
 
 		<section>
 
-
+		<container>
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6">
 
 					<div class="embed-responsive embed-responsive-16by9">
-						<iframe class="embed-responsive-item" src="//www.youtube.com/embed/GNi__fnadTM" frameborder="0" allowfullscreen"></iframe>
+						<iframe class="embed-responsive-item" src="//www.youtube.com/embed/J6p77Hy4uv0" frameborder="0" allowfullscreen"></iframe>
 					</div>
 				</div>
 			</div class="col-sm-6">
-
+		</container>
 
 				</section>
 

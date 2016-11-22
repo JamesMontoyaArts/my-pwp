@@ -27,14 +27,14 @@
 			<div calss="header row">
 			<header>
 				<div class="span12">
-				<img rel="header" type="img/.png" href="../img/header.png">
+				<img rel="header" type="img/.png" i="../img/header.png">
 				</div>
 			</header>
 			</div>
 
 			<section id="rules">
 
-				<p>DYou won't regret it, dad. When I kiss Jimmy Jr. under the disco ball, it'll be like we're all kissing Jimmy Jr under the disco ball. Dear Diary: Tonight I'm sneaking off to the abandoned taffy factory to look for treasure. Also, if boys had uteruses, they'd be called duderuses. I had no idea there was so much butt touching in baseball. I'm not spooked. What's the next thing after spooked? I'm that. I'm no hero. I just put my bra on one boob at a time. Drop the towel. Dad, you're the best pimp a girl could ever have. She grabbed Jimmy Jr's butt and changed the world.</p>
+				<p>You won't regret it, dad. When I kiss Jimmy Jr. under the disco ball, it'll be like we're all kissing Jimmy Jr under the disco ball. Dear Diary: Tonight I'm sneaking off to the abandoned taffy factory to look for treasure. Also, if boys had uteruses, they'd be called duderuses. I had no idea there was so much butt touching in baseball. I'm not spooked. What's the next thing after spooked? I'm that. I'm no hero. I just put my bra on one boob at a time. Drop the towel. Dad, you're the best pimp a girl could ever have. She grabbed Jimmy Jr's butt and changed the world.</p>
 
 			</section>
 		</container>

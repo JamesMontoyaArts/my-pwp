@@ -1,0 +1,135 @@
+div.container {
+  padding-right:5px;
+  padding-left:5px;
+}
+
+div.col-lg-3.col-lg-offset-0.col-md-12 {
+  padding-left:inherit;
+  padding-right:inherit;
+}
+
+body {
+  background-color:black;
+}
+
+a.navbar-brand.navbar-link {
+  color:#40b0b8;
+  font-family:'Oleo Script', cursive;
+}
+
+div#rules.row {
+  padding-top:50px;
+}
+
+p {
+  color:white;
+  margin:initial;
+}
+
+h1.text-center {
+  color:#40b0b8;
+  font-family:'Oleo Script', cursive;
+  font-size:xx-large;
+}
+
+li {
+  color:white;
+  font-size:x-large;
+  font-family:'Oleo Script', cursive;
+}
+
+img.img-responsive {
+}
+
+div#video-row.row {
+  padding-top:100px;
+  padding-bottom:100px;
+}
+
+img#tractorLogo.img-responsive {
+  padding-left:10px;
+}
+
+img#nmmcpa.img-responsive {
+  margin-left:30px;
+}
+
+img#tractorLogo.img-responsive {
+  margin-left:40px;
+}
+
+img#swop.img-responsive {
+  margin-left:40px;
+}
+
+img#jmLogo.img-responsive {
+  margin-left:25px;
+}
+
+img#parade.img-responsive {
+  margin-left:20px;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#mc_embed_signup {
+  color: white;
+  background:transparent;
+  clear:left;
+  font:14px Helvetica,Arial,sans-serif;
+}
+
+#contact-form {
+  color: white;
+}
+
+#artFightCarousel {
+  width: 1200px;
+  height: 1000px;
+}
+
+#menuRules {
+  color: white;
+}
+
+#menuAuction {
+  color: white;
+}
+
+#menuContact {
+  color: white;
+}
+
+#menuGallery {
+  color: white;
+}
+
+#menuMail {
+  color: white;
+}
+
+#menuPartners {
+  color: white;
+}
+
+#footer-basic {
+  background-image: url(/public_html/img/footer.png);
+}
+
+.rulesTitle {
+  font-size: x-large;
+}
